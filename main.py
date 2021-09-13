@@ -6,7 +6,7 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print('First roey project A2')  # Press Strg+F8 to toggle the breakpoint.
+    print('First roey project A3')  # Press Strg+F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
